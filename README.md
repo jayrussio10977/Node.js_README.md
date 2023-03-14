@@ -1,29 +1,29 @@
-# y
+# t
 
 
 ### description
-y
+t
 
 ### installation
-y
+t
   
 ### usage
-y
+t
     
 ### contribution
-y
+t
     
 ### test
-y
+t
       
 ### installation
-y
+t
 
 
 ### license
-MIT
+Boost_1.0
   
 
 ### BADGE SECTION
-[![MIT:license placholder text](https://img.shields.io/badge/license-MIT-blue)]
+![Boost_1.0:license placholder text](https://img.shields.io/badge/license-Boost_1.0-blue)
 
